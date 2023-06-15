@@ -2,6 +2,7 @@
 segment anything model applied to mr images
 
 First, download sam-hq git repo
+
 git clone https://github.com/SysCV/sam-hq.git
 
 1. conda activate {your_env}
